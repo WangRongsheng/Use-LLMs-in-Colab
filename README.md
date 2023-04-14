@@ -6,7 +6,7 @@ coming soon...
 pip install anylabeling
 ```
 
-`CMD`:
+`commend`:
 
 ```python
 anylabeling
