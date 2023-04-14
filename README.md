@@ -11,3 +11,4 @@ pip install anylabeling
 ```python
 anylabeling
 ```
+即可使用！
