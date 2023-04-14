@@ -5,3 +5,9 @@ coming soon...
 ```python
 pip install anylabeling
 ```
+
+`commend`:
+
+```python
+anylabeling
+```
