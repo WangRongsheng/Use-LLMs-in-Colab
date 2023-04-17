@@ -14,3 +14,4 @@
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hedlen/awesome-segment-anything
 - https://github.com/Vision-CAIR/MiniGPT-4
+- https://github.com/ttengwang/Caption-Anything
