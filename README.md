@@ -2,6 +2,12 @@
 1. AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/WangRongsheng/Use-LLMs/tree/main/AutoGPT
+2. ChatGenTitle
+- https://github.com/WangRongsheng/ChatGenTitle
+- https://github.com/WangRongsheng/Use-LLMs/tree/main/ChatGenTitle
+3. GroundedSAM
+- https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
+- https://github.com/WangRongsheng/Use-LLMs/tree/main/GroundedSAM
 
 # ...
 - https://github.com/JJGO/UniverSeg
