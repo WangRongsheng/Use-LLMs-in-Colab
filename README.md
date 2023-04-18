@@ -1,4 +1,4 @@
-# 使用大模型
+# Colab上使用大模型
 1. AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/WangRongsheng/Use-LLMs/tree/main/AutoGPT
