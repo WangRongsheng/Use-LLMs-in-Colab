@@ -15,3 +15,9 @@
 - https://github.com/Hedlen/awesome-segment-anything
 - https://github.com/Vision-CAIR/MiniGPT-4
 - https://github.com/ttengwang/Caption-Anything
+
+# 工具集
+
+- https://github.com/haochenheheda/segment-anything-annotator
+- https://github.com/vietanhdev/anylabeling
+- https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
