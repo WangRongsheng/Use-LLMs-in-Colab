@@ -22,3 +22,4 @@
 - https://github.com/haochenheheda/segment-anything-annotator
 - https://github.com/vietanhdev/anylabeling
 - https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
+- https://github.com/xionghonglin/DoctorGLM
