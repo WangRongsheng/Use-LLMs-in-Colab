@@ -23,3 +23,4 @@
 - https://github.com/vietanhdev/anylabeling
 - https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
 - https://github.com/xionghonglin/DoctorGLM
+- https://github.com/reworkd/AgentGPT
