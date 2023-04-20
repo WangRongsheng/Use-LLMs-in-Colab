@@ -8,12 +8,14 @@
 3. GroundedSAM
 - https://github.com/caoyunkang/GroundedSAM-zero-shot-anomaly-detection
 - https://github.com/WangRongsheng/Use-LLMs/tree/main/GroundedSAM
+4. MiniGPT-4
+- https://github.com/Vision-CAIR/MiniGPT-4
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/MiniGPT-4
 
 # ...
 - https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hedlen/awesome-segment-anything
-- https://github.com/Vision-CAIR/MiniGPT-4
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
