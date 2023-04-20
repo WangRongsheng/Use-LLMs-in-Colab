@@ -1,4 +1,4 @@
-# Colab上使用大模型
+# ✅Colab上使用大模型
 1. AutoGPT
 - https://github.com/Significant-Gravitas/Auto-GPT
 - https://github.com/WangRongsheng/Use-LLMs/tree/main/AutoGPT
@@ -12,7 +12,7 @@
 - https://github.com/Vision-CAIR/MiniGPT-4
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/MiniGPT-4
 
-# ...
+# ❌...
 - https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hedlen/awesome-segment-anything
@@ -20,7 +20,7 @@
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 
-# 工具集
+# 🤖工具集
 
 - https://github.com/haochenheheda/segment-anything-annotator
 - https://github.com/vietanhdev/anylabeling
