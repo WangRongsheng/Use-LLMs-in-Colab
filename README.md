@@ -16,6 +16,7 @@
 - https://github.com/Vision-CAIR/MiniGPT-4
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/yanqiangmiffy/Chinese-LangChain
+- https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 
 # 工具集
 
