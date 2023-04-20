@@ -24,3 +24,5 @@
 - https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
 - https://github.com/xionghonglin/DoctorGLM
 - https://github.com/reworkd/AgentGPT
+- https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+- https://github.com/imClumsyPanda/langchain-ChatGLM
