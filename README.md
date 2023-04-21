@@ -13,6 +13,9 @@
 4. MiniGPT-4
 - https://github.com/Vision-CAIR/MiniGPT-4
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/MiniGPT-4
+5. LangChain
+- https://github.com/hwchase17/langchain
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/LangChain
 
 # ❌Coming Soon
 - https://github.com/JJGO/UniverSeg
