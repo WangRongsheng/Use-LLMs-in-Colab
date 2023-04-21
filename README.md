@@ -20,7 +20,6 @@
 # ❌Coming Soon
 - https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
-- https://github.com/ttengwang/Caption-Anything
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 
 # 🤖Tools
@@ -35,4 +34,5 @@
 - https://github.com/Hedlen/awesome-segment-anything
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/GaiZhenbiao/ChuanhuChatGPT
+- https://github.com/ttengwang/Caption-Anything
 
