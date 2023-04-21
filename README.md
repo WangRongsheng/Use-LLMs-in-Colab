@@ -17,7 +17,6 @@
 # ❌Coming Soon
 - https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
-- https://github.com/Hedlen/awesome-segment-anything
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
@@ -30,3 +29,5 @@
 - https://github.com/reworkd/AgentGPT
 - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 - https://github.com/imClumsyPanda/langchain-ChatGLM
+- https://github.com/kyrolabs/awesome-langchain
+- https://github.com/Hedlen/awesome-segment-anything
