@@ -38,4 +38,5 @@
 - https://github.com/lvwzhen/law-cn-ai
 - https://github.com/MediaBrain-SJTU/MedicalGPT-zh
 - https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
+- https://github.com/zhangnn520/chinese_llama_alpaca_lora
 
