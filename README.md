@@ -36,4 +36,5 @@
 - https://github.com/GaiZhenbiao/ChuanhuChatGPT
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/lvwzhen/law-cn-ai
+- https://github.com/MediaBrain-SJTU/MedicalGPT-zh
 
