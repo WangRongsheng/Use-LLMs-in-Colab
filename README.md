@@ -37,4 +37,5 @@
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/lvwzhen/law-cn-ai
 - https://github.com/MediaBrain-SJTU/MedicalGPT-zh
+- https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 
