@@ -35,4 +35,5 @@
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/GaiZhenbiao/ChuanhuChatGPT
 - https://github.com/ttengwang/Caption-Anything
+- https://github.com/lvwzhen/law-cn-ai
 
