@@ -41,4 +41,5 @@
 - https://github.com/zhangnn520/chinese_llama_alpaca_lora
 - https://github.com/lxe/simple-llm-finetuner
 - https://github.com/FreedomIntelligence/LLMZoo
+- https://github.com/haochenheheda/segment-anything-annotator
 
