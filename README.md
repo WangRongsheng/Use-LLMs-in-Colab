@@ -42,4 +42,5 @@
 - https://github.com/lxe/simple-llm-finetuner
 - https://github.com/FreedomIntelligence/LLMZoo
 - https://github.com/haochenheheda/segment-anything-annotator
+- https://github.com/zilliztech/GPTCache
 
