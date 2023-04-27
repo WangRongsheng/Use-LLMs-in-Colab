@@ -21,6 +21,7 @@
 - https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
+- https://github.com/open-mmlab/Multimodal-GPT
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
