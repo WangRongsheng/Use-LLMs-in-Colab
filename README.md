@@ -50,3 +50,4 @@
 - https://github.com/CCCBora/auto-draft
 - https://github.com/hiyouga/ChatGLM-Efficient-Tuning
 - https://github.com/Kent0n-Li/ChatDoctor
+- https://github.com/FreedomIntelligence/Medical_NLP
