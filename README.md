@@ -45,3 +45,4 @@
 - https://github.com/haochenheheda/segment-anything-annotator
 - https://github.com/zilliztech/GPTCache
 - https://github.com/CCCBora/auto-draft
+- https://github.com/hiyouga/ChatGLM-Efficient-Tuning
