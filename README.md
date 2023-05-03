@@ -16,6 +16,9 @@
 5. LangChain
 - https://github.com/hwchase17/langchain
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/LangChain
+6. segment-anything
+- https://github.com/facebookresearch/segment-anything
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/blob/main/segment-anything
 
 # ❌Coming Soon
 - https://github.com/JJGO/UniverSeg
