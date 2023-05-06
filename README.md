@@ -52,3 +52,4 @@
 - https://github.com/LiuHC0428/LAW-GPT
 - https://github.com/JJGO/UniverSeg
 - https://github.com/zhangnn520/chinese_llama_alpaca_lora
+- https://github.com/ymcui/Chinese-LLaMA-Alpaca
