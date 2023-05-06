@@ -21,7 +21,6 @@
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/blob/main/segment-anything
 
 # ❌Coming Soon
-- https://github.com/JJGO/UniverSeg
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - https://github.com/open-mmlab/Multimodal-GPT
@@ -32,7 +31,6 @@
 - https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
 - https://github.com/xionghonglin/DoctorGLM
 - https://github.com/reworkd/AgentGPT
-- https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 - https://github.com/imClumsyPanda/langchain-ChatGLM
 - https://github.com/kyrolabs/awesome-langchain
 - https://github.com/Hedlen/awesome-segment-anything
@@ -52,3 +50,4 @@
 - https://github.com/Kent0n-Li/ChatDoctor
 - https://github.com/FreedomIntelligence/Medical_NLP
 - https://github.com/LiuHC0428/LAW-GPT
+- https://github.com/JJGO/UniverSeg
