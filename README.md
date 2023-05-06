@@ -51,3 +51,4 @@
 - https://github.com/FreedomIntelligence/Medical_NLP
 - https://github.com/LiuHC0428/LAW-GPT
 - https://github.com/JJGO/UniverSeg
+- https://github.com/zhangnn520/chinese_llama_alpaca_lora
