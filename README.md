@@ -54,3 +54,4 @@
 - https://github.com/zhangnn520/chinese_llama_alpaca_lora
 - https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - https://github.com/yuanzhoulvpi2017/zero_nlp
+- https://github.com/yanqiangmiffy/Chinese-LangChain
