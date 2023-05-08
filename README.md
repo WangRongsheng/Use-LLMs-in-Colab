@@ -57,3 +57,4 @@
 - https://github.com/yuanzhoulvpi2017/zero_nlp
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/OpenLMLab/ChatZoo
+- https://github.com/OFA-Sys/Chinese-CLIP
