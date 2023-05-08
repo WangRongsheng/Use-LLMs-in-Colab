@@ -58,3 +58,7 @@
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/OpenLMLab/ChatZoo
 - https://github.com/OFA-Sys/Chinese-CLIP
+
+# 👷‍♂️Dataset
+
+- https://github.com/hikariming/alpaca_chinese_dataset
