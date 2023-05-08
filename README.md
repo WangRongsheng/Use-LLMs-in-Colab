@@ -58,6 +58,7 @@
 - https://github.com/yanqiangmiffy/Chinese-LangChain
 - https://github.com/OpenLMLab/ChatZoo
 - https://github.com/OFA-Sys/Chinese-CLIP
+- https://github.com/IBM/Dromedary
 
 # 👷‍♂️Dataset
 
