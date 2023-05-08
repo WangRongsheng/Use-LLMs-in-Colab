@@ -24,6 +24,7 @@
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - https://github.com/open-mmlab/Multimodal-GPT
+- https://github.com/VPGTrans/VPGTrans
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
