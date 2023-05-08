@@ -55,3 +55,4 @@
 - https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - https://github.com/yuanzhoulvpi2017/zero_nlp
 - https://github.com/yanqiangmiffy/Chinese-LangChain
+- https://github.com/OpenLMLab/ChatZoo
