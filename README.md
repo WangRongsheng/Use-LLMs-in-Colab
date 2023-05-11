@@ -25,6 +25,7 @@
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - https://github.com/open-mmlab/Multimodal-GPT
 - https://github.com/VPGTrans/VPGTrans
+- https://github.com/OptimalScale/DetGPT
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
