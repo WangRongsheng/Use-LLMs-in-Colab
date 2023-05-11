@@ -61,6 +61,7 @@
 - https://github.com/OFA-Sys/Chinese-CLIP
 - https://github.com/IBM/Dromedary
 - https://github.com/iflytek/MiniRBT
+- https://github.com/starmpcc/CAMEL
 
 # 👷‍♂️Dataset
 
