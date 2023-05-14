@@ -62,6 +62,7 @@
 - https://github.com/IBM/Dromedary
 - https://github.com/iflytek/MiniRBT
 - https://github.com/starmpcc/CAMEL
+- https://github.com/StarRing2022/ChatGPTX-Uni
 
 # 👷‍♂️Dataset
 
