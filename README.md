@@ -26,6 +26,7 @@
 - https://github.com/open-mmlab/Multimodal-GPT
 - https://github.com/VPGTrans/VPGTrans
 - https://github.com/OptimalScale/DetGPT
+- https://github.com/RyanWangZf/MedCLIP
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
