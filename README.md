@@ -65,7 +65,9 @@
 - https://github.com/iflytek/MiniRBT
 - https://github.com/starmpcc/CAMEL
 - https://github.com/StarRing2022/ChatGPTX-Uni
+- https://github.com/michael-wzhu/ChatMed
 
 # 👷‍♂️Dataset
 
 - https://github.com/hikariming/alpaca_chinese_dataset
+- https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset
