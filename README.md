@@ -27,6 +27,7 @@
 - https://github.com/VPGTrans/VPGTrans
 - https://github.com/OptimalScale/DetGPT
 - https://github.com/RyanWangZf/MedCLIP
+- https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
