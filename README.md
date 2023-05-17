@@ -28,6 +28,7 @@
 - https://github.com/OptimalScale/DetGPT
 - https://github.com/RyanWangZf/MedCLIP
 - https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
+- https://github.com/X-PLUG/mPLUG-Owl
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
