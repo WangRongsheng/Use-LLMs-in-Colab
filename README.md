@@ -70,6 +70,7 @@
 - https://github.com/s-JoL/Open-Llama
 - https://github.com/CVI-SZU/Linly
 - https://github.com/lucasjinreal/llama_lora
+- https://github.com/BlinkDL/ChatRWKV
 
 # 👷‍♂️Dataset
 
