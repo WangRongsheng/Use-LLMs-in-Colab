@@ -69,6 +69,7 @@
 - https://github.com/michael-wzhu/ChatMed
 - https://github.com/s-JoL/Open-Llama
 - https://github.com/CVI-SZU/Linly
+- https://github.com/lucasjinreal/llama_lora
 
 # 👷‍♂️Dataset
 
