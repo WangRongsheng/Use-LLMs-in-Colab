@@ -66,6 +66,7 @@
 - https://github.com/starmpcc/CAMEL
 - https://github.com/StarRing2022/ChatGPTX-Uni
 - https://github.com/michael-wzhu/ChatMed
+- https://github.com/s-JoL/Open-Llama
 
 # 👷‍♂️Dataset
 
