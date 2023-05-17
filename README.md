@@ -71,6 +71,7 @@
 - https://github.com/CVI-SZU/Linly
 - https://github.com/lucasjinreal/llama_lora
 - https://github.com/BlinkDL/ChatRWKV
+- https://github.com/wenda-LLM/wenda
 
 # 👷‍♂️Dataset
 
