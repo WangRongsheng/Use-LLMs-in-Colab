@@ -29,6 +29,7 @@
 - https://github.com/RyanWangZf/MedCLIP
 - https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
 - https://github.com/X-PLUG/mPLUG-Owl
+- https://github.com/THUDM/VisualGLM-6B
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
