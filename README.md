@@ -19,6 +19,9 @@
 6. segment-anything
 - https://github.com/facebookresearch/segment-anything
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/blob/main/segment-anything
+7. Chinese-LLaMA-Alpaca
+- https://github.com/ymcui/Chinese-LLaMA-Alpaca
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/Chinese-LLaMA-Alpaca
 
 # ❌Coming Soon
 - https://github.com/cambridgeltl/visual-med-alpaca
