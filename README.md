@@ -70,6 +70,7 @@
 - https://github.com/BlinkDL/ChatRWKV
 - https://github.com/wenda-LLM/wenda
 - https://github.com/LianjiaTech/BELLE
+- https://github.com/pengxiao-song/LaWGPT
 
 # 👷‍♂️Dataset
 
