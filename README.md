@@ -31,6 +31,7 @@
 - https://github.com/X-PLUG/mPLUG-Owl
 - https://github.com/THUDM/VisualGLM-6B
 - https://github.com/haotian-liu/LLaVA
+- https://github.com/OpenGVLab/InternGPT
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
