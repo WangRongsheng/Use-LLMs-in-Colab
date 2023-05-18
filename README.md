@@ -30,6 +30,7 @@
 - https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
 - https://github.com/X-PLUG/mPLUG-Owl
 - https://github.com/THUDM/VisualGLM-6B
+- https://github.com/haotian-liu/LLaVA
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
