@@ -37,7 +37,6 @@
 - https://github.com/haochenheheda/segment-anything-annotator
 - https://github.com/vietanhdev/anylabeling
 - https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui
-- https://github.com/xionghonglin/DoctorGLM
 - https://github.com/reworkd/AgentGPT
 - https://github.com/imClumsyPanda/langchain-ChatGLM
 - https://github.com/kyrolabs/awesome-langchain
@@ -46,8 +45,6 @@
 - https://github.com/GaiZhenbiao/ChuanhuChatGPT
 - https://github.com/ttengwang/Caption-Anything
 - https://github.com/lvwzhen/law-cn-ai
-- https://github.com/MediaBrain-SJTU/MedicalGPT-zh
-- https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese
 - https://github.com/zhangnn520/chinese_llama_alpaca_lora
 - https://github.com/lxe/simple-llm-finetuner
 - https://github.com/FreedomIntelligence/LLMZoo
@@ -55,8 +52,6 @@
 - https://github.com/zilliztech/GPTCache
 - https://github.com/CCCBora/auto-draft
 - https://github.com/hiyouga/ChatGLM-Efficient-Tuning
-- https://github.com/Kent0n-Li/ChatDoctor
-- https://github.com/FreedomIntelligence/Medical_NLP
 - https://github.com/LiuHC0428/LAW-GPT
 - https://github.com/JJGO/UniverSeg
 - https://github.com/zhangnn520/chinese_llama_alpaca_lora
@@ -69,12 +64,12 @@
 - https://github.com/iflytek/MiniRBT
 - https://github.com/starmpcc/CAMEL
 - https://github.com/StarRing2022/ChatGPTX-Uni
-- https://github.com/michael-wzhu/ChatMed
 - https://github.com/s-JoL/Open-Llama
 - https://github.com/CVI-SZU/Linly
 - https://github.com/lucasjinreal/llama_lora
 - https://github.com/BlinkDL/ChatRWKV
 - https://github.com/wenda-LLM/wenda
+- https://github.com/LianjiaTech/BELLE
 
 # 👷‍♂️Dataset
 
