@@ -74,6 +74,7 @@
 - https://github.com/wenda-LLM/wenda
 - https://github.com/LianjiaTech/BELLE
 - https://github.com/pengxiao-song/LaWGPT
+- https://github.com/DAMO-NLP-SG/Video-LLaMA
 
 # 👷‍♂️Dataset
 
