@@ -83,3 +83,8 @@
 - https://github.com/hikariming/alpaca_chinese_dataset
 - https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset
 - https://tianchi.aliyun.com/dataset/95414
+
+# 📝Articles
+
+- [LLMs 大语言模型如何在NLP基础任务的落地？也许你应该看看这个](https://mp.weixin.qq.com/s/r3x-2VwOyxYLNm2E-4ZCHw)
+- [Scikit-LLM: 用于增强文本分析任务的工具](https://mp.weixin.qq.com/s/UNjXGUunH2U_cW93B2ZtkQ)
