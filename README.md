@@ -76,6 +76,7 @@
 - https://github.com/pengxiao-song/LaWGPT
 - https://github.com/DAMO-NLP-SG/Video-LLaMA
 - https://github.com/PKU-Alignment/safe-rlhf
+- https://github.com/mbzuai-oryx/XrayGPT
 
 # 👷‍♂️Dataset
 
