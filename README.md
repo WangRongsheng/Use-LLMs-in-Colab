@@ -35,6 +35,7 @@
 - https://github.com/THUDM/VisualGLM-6B
 - https://github.com/haotian-liu/LLaVA
 - https://github.com/OpenGVLab/InternGPT
+- https://github.com/mbzuai-oryx/Video-ChatGPT
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
