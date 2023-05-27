@@ -22,6 +22,9 @@
 7. Chinese-LLaMA-Alpaca
 - https://github.com/ymcui/Chinese-LLaMA-Alpaca
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/Chinese-LLaMA-Alpaca
+8. CPM-Bee
+- https://github.com/OpenBMB/CPM-Bee
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/CPM-Bee
 
 # ❌Coming Soon
 - https://github.com/cambridgeltl/visual-med-alpaca
@@ -36,7 +39,7 @@
 - https://github.com/haotian-liu/LLaVA
 - https://github.com/OpenGVLab/InternGPT
 - https://github.com/mbzuai-oryx/Video-ChatGPT
-- https://github.com/OpenBMB/CPM-Bee
+
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
