@@ -36,6 +36,7 @@
 - https://github.com/haotian-liu/LLaVA
 - https://github.com/OpenGVLab/InternGPT
 - https://github.com/mbzuai-oryx/Video-ChatGPT
+- https://github.com/OpenBMB/CPM-Bee
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
