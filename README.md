@@ -32,7 +32,6 @@
 - https://github.com/open-mmlab/Multimodal-GPT
 - https://github.com/VPGTrans/VPGTrans
 - https://github.com/OptimalScale/DetGPT
-- https://github.com/RyanWangZf/MedCLIP
 - https://github.com/salesforce/LAVIS/tree/main/projects/instructblip
 - https://github.com/X-PLUG/mPLUG-Owl
 - https://github.com/THUDM/VisualGLM-6B
@@ -40,6 +39,7 @@
 - https://github.com/OpenGVLab/InternGPT
 - https://github.com/mbzuai-oryx/Video-ChatGPT
 - https://github.com/ZrrSkywalker/LLaMA-Adapter
+- https://github.com/StarRing2022/MiniRWKV-4
 
 
 # 🤖Tools
@@ -83,6 +83,7 @@
 - https://github.com/DAMO-NLP-SG/Video-LLaMA
 - https://github.com/PKU-Alignment/safe-rlhf
 - https://github.com/mbzuai-oryx/XrayGPT
+- https://github.com/RyanWangZf/MedCLIP
 
 # 👷‍♂️Dataset
 
