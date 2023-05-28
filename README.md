@@ -84,6 +84,7 @@
 - https://github.com/PKU-Alignment/safe-rlhf
 - https://github.com/mbzuai-oryx/XrayGPT
 - https://github.com/RyanWangZf/MedCLIP
+- https://github.com/PhoebusSi/Alpaca-CoT
 
 # 👷‍♂️Dataset
 
