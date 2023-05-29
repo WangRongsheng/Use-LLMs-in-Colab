@@ -86,6 +86,7 @@
 - https://github.com/RyanWangZf/MedCLIP
 - https://github.com/PhoebusSi/Alpaca-CoT
 - https://github.com/CSHaitao/LexiLaw
+- https://github.com/lm-sys/FastChat
 
 # 👷‍♂️Dataset
 
