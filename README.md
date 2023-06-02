@@ -88,6 +88,7 @@
 - https://github.com/PhoebusSi/Alpaca-CoT
 - https://github.com/CSHaitao/LexiLaw
 - https://github.com/lm-sys/FastChat
+- https://github.com/SpursGoZmy/Tabular-LLM
 
 # 👷‍♂️Dataset
 
