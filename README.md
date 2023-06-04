@@ -41,6 +41,7 @@
 - https://github.com/ZrrSkywalker/LLaMA-Adapter
 - https://github.com/StarRing2022/MiniRWKV-4
 - https://github.com/lyuchenyang/Macaw-LLM
+- https://github.com/microsoft/LLaVA-Med
 
 
 # 🤖Tools
