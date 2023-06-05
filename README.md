@@ -90,6 +90,7 @@
 - https://github.com/CSHaitao/LexiLaw
 - https://github.com/lm-sys/FastChat
 - https://github.com/SpursGoZmy/Tabular-LLM
+- https://github.com/AndersonBY/vector-vein
 
 # 👷‍♂️Dataset
 
