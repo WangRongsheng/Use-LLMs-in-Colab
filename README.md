@@ -42,6 +42,7 @@
 - https://github.com/StarRing2022/MiniRWKV-4
 - https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/microsoft/LLaVA-Med
+- https://github.com/luogen1996/LaVIN
 
 
 # 🤖Tools
@@ -91,6 +92,7 @@
 - https://github.com/lm-sys/FastChat
 - https://github.com/SpursGoZmy/Tabular-LLM
 - https://github.com/AndersonBY/vector-vein
+- https://github.com/TigerResearch/TigerBot
 
 # 👷‍♂️Dataset
 
