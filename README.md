@@ -93,6 +93,7 @@
 - https://github.com/SpursGoZmy/Tabular-LLM
 - https://github.com/AndersonBY/vector-vein
 - https://github.com/TigerResearch/TigerBot
+- https://github.com/CVHub520/X-AnyLabeling
 
 # 👷‍♂️Dataset
 
