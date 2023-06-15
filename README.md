@@ -106,3 +106,4 @@
 - [LLMs 大语言模型如何在NLP基础任务的落地？也许你应该看看这个](https://mp.weixin.qq.com/s/r3x-2VwOyxYLNm2E-4ZCHw)
 - [Scikit-LLM: 用于增强文本分析任务的工具](https://mp.weixin.qq.com/s/UNjXGUunH2U_cW93B2ZtkQ)
 - [ChatGPT之后，值得关注的垂直领域大模型](https://mp.weixin.qq.com/s/J3p22Kez6VKpbs1l0fuWvQ)
+- [Stable Diffusion在电商场景生成AI模特服装拍摄的方案探索](https://mp.weixin.qq.com/s/B1kD9NSZN4Q_qy90XXQKIQ)
