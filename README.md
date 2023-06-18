@@ -107,3 +107,4 @@
 - [Scikit-LLM: 用于增强文本分析任务的工具](https://mp.weixin.qq.com/s/UNjXGUunH2U_cW93B2ZtkQ)
 - [ChatGPT之后，值得关注的垂直领域大模型](https://mp.weixin.qq.com/s/J3p22Kez6VKpbs1l0fuWvQ)
 - [Stable Diffusion在电商场景生成AI模特服装拍摄的方案探索](https://mp.weixin.qq.com/s/B1kD9NSZN4Q_qy90XXQKIQ)
+- [一键换装，被谷歌给实现了](https://mp.weixin.qq.com/s/kKh5FsxxqYe9378GDw41kw)
