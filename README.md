@@ -95,6 +95,7 @@
 - https://github.com/TigerResearch/TigerBot
 - https://github.com/CVHub520/X-AnyLabeling
 - https://github.com/OpenLMLab/LOMO
+- https://github.com/lyogavin/Anima
 
 # 👷‍♂️Dataset
 
