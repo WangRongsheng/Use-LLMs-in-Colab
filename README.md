@@ -98,6 +98,7 @@
 - https://github.com/OpenLMLab/LOMO
 - https://github.com/lyogavin/Anima
 - https://github.com/zjunlp/KnowLM
+- https://github.com/qiuhuachuan/smile
 
 # 👷‍♂️Dataset
 
