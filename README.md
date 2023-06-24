@@ -99,6 +99,7 @@
 - https://github.com/lyogavin/Anima
 - https://github.com/zjunlp/KnowLM
 - https://github.com/qiuhuachuan/smile
+- https://github.com/taishan1994/sentencepiece_chinese_bpe
 
 # 👷‍♂️Dataset
 
