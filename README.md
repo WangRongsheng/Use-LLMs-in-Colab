@@ -111,6 +111,7 @@
 
 - https://github.com/HqWu-HITCS/Awesome-Chinese-LLM
 - https://github.com/km1994/LLMsNineStoryDemonTower
+- https://github.com/wgwang/LLMs-In-China
 
 # 📝Articles
 
