@@ -100,6 +100,7 @@
 - https://github.com/zjunlp/KnowLM
 - https://github.com/qiuhuachuan/smile
 - https://github.com/taishan1994/sentencepiece_chinese_bpe
+- https://github.com/neukg/TechGPT
 
 # 👷‍♂️Dataset
 
