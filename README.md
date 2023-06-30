@@ -43,6 +43,7 @@
 - https://github.com/lyuchenyang/Macaw-LLM
 - https://github.com/microsoft/LLaVA-Med
 - https://github.com/luogen1996/LaVIN
+- https://github.com/OpenBMB/VisCPM
 
 
 # 🤖Tools
