@@ -126,3 +126,4 @@
 - [Stable Diffusion在电商场景生成AI模特服装拍摄的方案探索](https://mp.weixin.qq.com/s/B1kD9NSZN4Q_qy90XXQKIQ)
 - [一键换装，被谷歌给实现了](https://mp.weixin.qq.com/s/kKh5FsxxqYe9378GDw41kw)
 - [使用 LoRA 技术对 LLaMA 65B 大模型进行微调及推理](https://mp.weixin.qq.com/s/AZkIBFl78czYnRNYfl9sCQ)
+- [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
