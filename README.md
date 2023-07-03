@@ -103,6 +103,7 @@
 - https://github.com/taishan1994/sentencepiece_chinese_bpe
 - https://github.com/neukg/TechGPT
 - https://github.com/PKU-YuanGroup/ChatLaw
+- https://github.com/icalk-nlp/EduChat
 
 # 👷‍♂️Dataset
 
