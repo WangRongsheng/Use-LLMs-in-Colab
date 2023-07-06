@@ -111,6 +111,7 @@
 - https://github.com/hikariming/alpaca_chinese_dataset
 - https://huggingface.co/datasets/michaelwzhu/ChatMed_Consult_Dataset
 - https://tianchi.aliyun.com/dataset/95414
+- https://github.com/Zjh-819/LLMDataHub
 
 # 🏵️Sources
 
