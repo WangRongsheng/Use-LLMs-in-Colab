@@ -128,3 +128,4 @@
 - [一键换装，被谷歌给实现了](https://mp.weixin.qq.com/s/kKh5FsxxqYe9378GDw41kw)
 - [使用 LoRA 技术对 LLaMA 65B 大模型进行微调及推理](https://mp.weixin.qq.com/s/AZkIBFl78czYnRNYfl9sCQ)
 - [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
+- [从零详细地梳理一个完整的 LLM 训练流程](https://mp.weixin.qq.com/s/dtlYQk6E_lqCN_viXir1wA)
