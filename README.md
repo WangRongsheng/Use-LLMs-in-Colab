@@ -104,6 +104,7 @@
 - https://github.com/neukg/TechGPT
 - https://github.com/PKU-YuanGroup/ChatLaw
 - https://github.com/icalk-nlp/EduChat
+- https://github.com/kendryte/Toucan-LLM
 
 # 👷‍♂️Dataset
 
@@ -129,3 +130,4 @@
 - [使用 LoRA 技术对 LLaMA 65B 大模型进行微调及推理](https://mp.weixin.qq.com/s/AZkIBFl78czYnRNYfl9sCQ)
 - [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
 - [从零详细地梳理一个完整的 LLM 训练流程](https://mp.weixin.qq.com/s/dtlYQk6E_lqCN_viXir1wA)
+- https://github.com/ninehills/blog/issues
