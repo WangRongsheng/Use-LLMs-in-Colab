@@ -106,6 +106,7 @@
 - https://github.com/icalk-nlp/EduChat
 - https://github.com/kendryte/Toucan-LLM
 - https://github.com/openchatai/OpenChat
+- https://github.com/beyondguo/LLM-Tuning
 
 
 # 👷‍♂️Dataset
