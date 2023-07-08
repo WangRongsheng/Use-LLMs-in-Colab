@@ -122,6 +122,7 @@
 - https://github.com/wgwang/LLMs-In-China
 - https://github.com/catqaq/ChatPiXiu
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+- https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 
 # 🔗Deploy
 
