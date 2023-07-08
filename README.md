@@ -105,7 +105,7 @@
 - https://github.com/PKU-YuanGroup/ChatLaw
 - https://github.com/icalk-nlp/EduChat
 - https://github.com/kendryte/Toucan-LLM
-- https://github.com/NCZkevin/chatglm-web
+
 
 # 👷‍♂️Dataset
 
@@ -122,6 +122,11 @@
 - https://github.com/wgwang/LLMs-In-China
 - https://github.com/catqaq/ChatPiXiu
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+# 🔗Deploy
+
+- https://github.com/tw93/Pake
+- https://github.com/NCZkevin/chatglm-web
 
 # 📝Articles
 
