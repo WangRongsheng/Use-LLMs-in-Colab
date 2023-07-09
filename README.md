@@ -108,6 +108,7 @@
 - https://github.com/openchatai/OpenChat
 - https://github.com/beyondguo/LLM-Tuning
 - https://github.com/CStanKonrad/long_llama
+- https://github.com/zetavg/LLaMA-LoRA-Tuner
 
 # 👷‍♂️Dataset
 
