@@ -109,6 +109,7 @@
 - https://github.com/beyondguo/LLM-Tuning
 - https://github.com/CStanKonrad/long_llama
 - https://github.com/zetavg/LLaMA-LoRA-Tuner
+- https://github.com/chaoyi-wu/Finetune_LLAMA
 
 # 👷‍♂️Dataset
 
