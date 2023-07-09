@@ -107,7 +107,7 @@
 - https://github.com/kendryte/Toucan-LLM
 - https://github.com/openchatai/OpenChat
 - https://github.com/beyondguo/LLM-Tuning
-
+- https://github.com/CStanKonrad/long_llama
 
 # 👷‍♂️Dataset
 
