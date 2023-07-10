@@ -112,6 +112,7 @@
 - https://github.com/chaoyi-wu/Finetune_LLAMA
 - https://github.com/hiyouga/FastEdit
 - https://github.com/InternLM/InternLM
+- https://github.com/bowang-lab/MedSAM
 
 # 👷‍♂️Dataset
 
