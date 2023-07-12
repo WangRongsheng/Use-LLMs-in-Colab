@@ -113,6 +113,7 @@
 - https://github.com/hiyouga/FastEdit
 - https://github.com/InternLM/InternLM
 - https://github.com/bowang-lab/MedSAM
+- https://github.com/rogeriochaves/litechain
 
 # 👷‍♂️Dataset
 
