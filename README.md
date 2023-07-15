@@ -116,6 +116,7 @@
 - https://github.com/rogeriochaves/litechain
 - https://github.com/LianjiaTech/BELLE
 - https://github.com/cambridgeltl/visual-med-alpaca
+- ziya：https://github.com/IDEA-CCNL/Fengshenbang-LM
 
 # 👷‍♂️Dataset
 
