@@ -114,6 +114,7 @@
 - https://github.com/InternLM/InternLM
 - https://github.com/bowang-lab/MedSAM
 - https://github.com/rogeriochaves/litechain
+- https://github.com/LianjiaTech/BELLE
 
 # 👷‍♂️Dataset
 
