@@ -149,3 +149,4 @@
 - [Modest Understandings on LLM](https://bytedance.feishu.cn/docx/doxcn3zm448MK9sK6pHuPsqtH8f)
 - [从零详细地梳理一个完整的 LLM 训练流程](https://mp.weixin.qq.com/s/dtlYQk6E_lqCN_viXir1wA)
 - https://github.com/ninehills/blog/issues
+- [图生文-绘图理解模型DePlot](https://huggingface.co/docs/transformers/main/model_doc/deplot)
