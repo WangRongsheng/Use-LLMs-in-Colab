@@ -134,6 +134,7 @@
 - https://github.com/catqaq/ChatPiXiu
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+- https://github.com/kyrolabs/awesome-langchain
 
 # 🔗Deploy
 
