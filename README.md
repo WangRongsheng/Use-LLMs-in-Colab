@@ -26,7 +26,7 @@
 - https://github.com/OpenBMB/CPM-Bee
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/CPM-Bee
 
-# ❌Coming Soon
+# ❌Multimodel
 - https://github.com/cambridgeltl/visual-med-alpaca
 - https://github.com/Hello-SimpleAI/chatgpt-comparison-detection
 - https://github.com/open-mmlab/Multimodal-GPT
@@ -44,6 +44,7 @@
 - https://github.com/microsoft/LLaVA-Med
 - https://github.com/luogen1996/LaVIN
 - https://github.com/OpenBMB/VisCPM
+- https://github.com/howard-hou/VisualRWKV
 
 
 # 🤖Tools
