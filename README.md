@@ -121,6 +121,7 @@
 - https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
 - https://github.com/zjunlp/KnowLM
 - https://github.com/zjunlp/EasyEdit
+- https://github.com/FlagAlpha/Llama2-Chinese
 
 # 👷‍♂️Dataset
 
