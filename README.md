@@ -120,6 +120,7 @@
 - ziya：https://github.com/IDEA-CCNL/Fengshenbang-LM
 - https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
 - https://github.com/zjunlp/KnowLM
+- https://github.com/zjunlp/EasyEdit
 
 # 👷‍♂️Dataset
 
