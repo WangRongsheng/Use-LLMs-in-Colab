@@ -119,6 +119,7 @@
 - https://github.com/cambridgeltl/visual-med-alpaca
 - ziya：https://github.com/IDEA-CCNL/Fengshenbang-LM
 - https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
+- https://github.com/zjunlp/KnowLM
 
 # 👷‍♂️Dataset
 
