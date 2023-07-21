@@ -45,7 +45,7 @@
 - https://github.com/luogen1996/LaVIN
 - https://github.com/OpenBMB/VisCPM
 - https://github.com/howard-hou/VisualRWKV
-
+- https://github.com/openmedlab/XrayPULSE
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
@@ -139,6 +139,7 @@
 - https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
 - https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 - https://github.com/kyrolabs/awesome-langchain
+- https://github.com/wgwang/LLMs-In-China
 
 # 🔗Deploy
 
