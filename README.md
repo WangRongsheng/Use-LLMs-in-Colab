@@ -122,6 +122,8 @@
 - https://github.com/zjunlp/KnowLM
 - https://github.com/zjunlp/EasyEdit
 - https://github.com/FlagAlpha/Llama2-Chinese
+- https://github.com/yanqiangmiffy/how-to-train-tokenizer
+- https://github.com/yanqiangmiffy/GoGPT
 
 # 👷‍♂️Dataset
 
