@@ -124,6 +124,7 @@
 - https://github.com/FlagAlpha/Llama2-Chinese
 - https://github.com/yanqiangmiffy/how-to-train-tokenizer
 - https://github.com/yanqiangmiffy/GoGPT
+- https://github.com/SupritYoung/RLHF-Label-Tool
 
 # 👷‍♂️Dataset
 
