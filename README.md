@@ -125,6 +125,7 @@
 - https://github.com/yanqiangmiffy/how-to-train-tokenizer
 - https://github.com/yanqiangmiffy/GoGPT
 - https://github.com/SupritYoung/RLHF-Label-Tool
+- https://github.com/THUDM/CodeGeeX2
 
 # 👷‍♂️Dataset
 
