@@ -126,6 +126,7 @@
 - https://github.com/yanqiangmiffy/GoGPT
 - https://github.com/SupritYoung/RLHF-Label-Tool
 - https://github.com/THUDM/CodeGeeX2
+- https://github.com/vastxie/Happy-ChatGPT
 
 # 👷‍♂️Dataset
 
@@ -145,6 +146,8 @@
 - https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 - https://github.com/kyrolabs/awesome-langchain
 - https://github.com/wgwang/LLMs-In-China
+- https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
+- https://github.com/evanmiller/LLM-Reading-List
 
 # 🔗Deploy
 
