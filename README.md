@@ -154,6 +154,7 @@
 
 - https://github.com/tw93/Pake
 - https://github.com/NCZkevin/chatglm-web
+- https://github.com/LemonQu-GIT/ChatGLM-6B-Engineering
 
 # 📝Articles
 
