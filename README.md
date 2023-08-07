@@ -46,6 +46,7 @@
 - https://github.com/OpenBMB/VisCPM
 - https://github.com/howard-hou/VisualRWKV
 - https://github.com/openmedlab/XrayPULSE
+- https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
