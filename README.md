@@ -129,6 +129,7 @@
 - https://github.com/THUDM/CodeGeeX2
 - https://github.com/vastxie/Happy-ChatGPT
 - https://github.com/Alpha-VLLM/LLaMA2-Accessory
+- https://github.com/AlibabaResearch/AdvancedLiterateMachinery
 
 # 👷‍♂️Dataset
 
