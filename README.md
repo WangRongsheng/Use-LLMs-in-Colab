@@ -47,6 +47,7 @@
 - https://github.com/howard-hou/VisualRWKV
 - https://github.com/openmedlab/XrayPULSE
 - https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca
+- https://github.com/openmedlab/XrayPULSE
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
@@ -130,6 +131,8 @@
 - https://github.com/vastxie/Happy-ChatGPT
 - https://github.com/Alpha-VLLM/LLaMA2-Accessory
 - https://github.com/AlibabaResearch/AdvancedLiterateMachinery
+- https://github.com/openmedlab/PULSE
+- https://github.com/JuneYaooo/medical_kb_chatbot
 
 # 👷‍♂️Dataset
 
