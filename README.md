@@ -133,6 +133,7 @@
 - https://github.com/AlibabaResearch/AdvancedLiterateMachinery
 - https://github.com/openmedlab/PULSE
 - https://github.com/JuneYaooo/medical_kb_chatbot
+- https://github.com/MiuLab/Taiwan-LLaMa
 
 # 👷‍♂️Dataset
 
