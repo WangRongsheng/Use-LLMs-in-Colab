@@ -134,6 +134,7 @@
 - https://github.com/openmedlab/PULSE
 - https://github.com/JuneYaooo/medical_kb_chatbot
 - https://github.com/MiuLab/Taiwan-LLaMa
+- https://github.com/RapidAI/Knowledge-QA-LLM
 
 # 👷‍♂️Dataset
 
