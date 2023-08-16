@@ -156,6 +156,8 @@
 - https://github.com/wgwang/LLMs-In-China
 - https://github.com/lonePatient/awesome-pretrained-chinese-nlp-models
 - https://github.com/evanmiller/LLM-Reading-List
+- https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM
+- https://github.com/onejune2018/Awesome-LLM-Eval
 
 # 🔗Deploy
 
