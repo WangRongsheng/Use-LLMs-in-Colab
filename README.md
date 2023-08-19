@@ -145,6 +145,7 @@
 - https://tianchi.aliyun.com/dataset/95414
 - https://github.com/Zjh-819/LLMDataHub
 - https://github.com/sufengniu/RefGPT
+- https://github.com/chatopera/efaqa-corpus-zh
 
 # 🏵️Sources
 
