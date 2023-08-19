@@ -137,6 +137,7 @@
 - https://github.com/RapidAI/Knowledge-QA-LLM
 - https://github.com/NEU-DataMining/PICA
 - https://github.com/c121914yu/FastGPT
+- https://github.com/nlpxucan/WizardLM
 
 # 👷‍♂️Dataset
 
