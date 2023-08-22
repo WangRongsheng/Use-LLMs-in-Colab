@@ -48,6 +48,7 @@
 - https://github.com/openmedlab/XrayPULSE
 - https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca
 - https://github.com/openmedlab/XrayPULSE
+- https://github.com/LinkSoul-AI/Chinese-LLaVA
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
@@ -139,6 +140,8 @@
 - https://github.com/c121914yu/FastGPT
 - https://github.com/nlpxucan/WizardLM
 - https://github.com/HIT-SCIR/huozi
+- https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
+- https://github.com/LinkSoul-AI/LLaSM
 
 # 👷‍♂️Dataset
 
