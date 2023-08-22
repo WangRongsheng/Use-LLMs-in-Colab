@@ -138,6 +138,7 @@
 - https://github.com/NEU-DataMining/PICA
 - https://github.com/c121914yu/FastGPT
 - https://github.com/nlpxucan/WizardLM
+- https://github.com/HIT-SCIR/huozi
 
 # 👷‍♂️Dataset
 
