@@ -142,6 +142,7 @@
 - https://github.com/HIT-SCIR/huozi
 - https://github.com/LinkSoul-AI/Chinese-Llama-2-7b
 - https://github.com/LinkSoul-AI/LLaSM
+- https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 
 # 👷‍♂️Dataset
 
