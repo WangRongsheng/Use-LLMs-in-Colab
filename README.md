@@ -49,6 +49,7 @@
 - https://github.com/airaria/Visual-Chinese-LLaMA-Alpaca
 - https://github.com/openmedlab/XrayPULSE
 - https://github.com/LinkSoul-AI/Chinese-LLaVA
+- https://github.com/QwenLM/Qwen-VL
 
 # 🤖Tools
 - https://github.com/haochenheheda/segment-anything-annotator
