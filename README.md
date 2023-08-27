@@ -146,6 +146,10 @@
 - https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 - https://github.com/facebookresearch/codellama
 
+# 🧴Agent
+
+- https://github.com/Paitesanshi/LLM-Agent-Survey
+
 # 👷‍♂️Dataset
 
 - https://github.com/hikariming/alpaca_chinese_dataset
