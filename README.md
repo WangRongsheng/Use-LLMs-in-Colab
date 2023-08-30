@@ -148,6 +148,7 @@
 - https://github.com/wpydcr/LLM-Kit
 - https://github.com/LC1332/Luotuo-Chinese-LLM
 - https://github.com/LC1332/Chat-Haruhi-Suzumiya
+- https://github.com/chroma-core/chroma
 
 # 🧴Agent
 
