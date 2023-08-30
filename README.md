@@ -145,6 +145,9 @@
 - https://github.com/LinkSoul-AI/LLaSM
 - https://github.com/jerry1993-tech/Cornucopia-LLaMA-Fin-Chinese
 - https://github.com/facebookresearch/codellama
+- https://github.com/wpydcr/LLM-Kit
+- https://github.com/LC1332/Luotuo-Chinese-LLM
+- https://github.com/LC1332/Chat-Haruhi-Suzumiya
 
 # 🧴Agent
 
