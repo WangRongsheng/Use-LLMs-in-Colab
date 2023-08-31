@@ -201,3 +201,4 @@
 - [图生文-绘图理解模型DePlot](https://huggingface.co/docs/transformers/main/model_doc/deplot)
 - http://lilianweng.github.io/
 - [实际案例说明AI时代大语言模型三种微调技术的区别——Prompt-Tuning、Instruction-Tuning和Chain-of-Thought](https://www.datalearner.com/blog/1051681306547159)
+- [一种大模型prompt-tuning调优方法](https://www.cnblogs.com/LittleHann/p/17318509.html#_lab2_2_0)
