@@ -202,3 +202,7 @@
 - http://lilianweng.github.io/
 - [实际案例说明AI时代大语言模型三种微调技术的区别——Prompt-Tuning、Instruction-Tuning和Chain-of-Thought](https://www.datalearner.com/blog/1051681306547159)
 - [一种大模型prompt-tuning调优方法](https://www.cnblogs.com/LittleHann/p/17318509.html#_lab2_2_0)
+- [Less is More! 上交清源 && 里海 | 利用200条数据微调模型，怒超MiniGPT-4！](https://mp.weixin.qq.com/s/vbca2Y5LKqnOYnvEqqrgzQ)
+- [关于大模型驱动的AI智能体Agent的一些思考](https://mp.weixin.qq.com/s/3HXt1QFCyCwq_TNCl2UMEw)
+- [一文盘点「AI自主智能体」的构建、应用、评估](https://mp.weixin.qq.com/s/vPL3kvwCFFXOCnXfeRqfRA)
+- [Claude 2已被越狱？一文带你了解提示攻击！](https://mp.weixin.qq.com/s/p8l5hqLEATYEINe_7UIvWQ)
