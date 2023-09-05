@@ -153,6 +153,7 @@
 # 🧴Agent
 
 - https://github.com/Paitesanshi/LLM-Agent-Survey
+- https://github.com/modelscope/modelscope-agent
 
 # 👷‍♂️Dataset
 
