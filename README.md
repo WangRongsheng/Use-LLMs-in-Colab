@@ -149,6 +149,7 @@
 - https://github.com/LC1332/Luotuo-Chinese-LLM
 - https://github.com/LC1332/Chat-Haruhi-Suzumiya
 - https://github.com/chroma-core/chroma
+- https://github.com/mshumer/gpt-author
 
 # 🧴Agent
 
