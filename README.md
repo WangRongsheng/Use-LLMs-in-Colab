@@ -209,3 +209,4 @@
 - [一文盘点「AI自主智能体」的构建、应用、评估](https://mp.weixin.qq.com/s/vPL3kvwCFFXOCnXfeRqfRA)
 - [Claude 2已被越狱？一文带你了解提示攻击！](https://mp.weixin.qq.com/s/p8l5hqLEATYEINe_7UIvWQ)、
 - HF中文博客：https://huggingface.co/blog/zh
+- llama-2实现新闻分类：https://medium.com/@kshitiz.sahay26
