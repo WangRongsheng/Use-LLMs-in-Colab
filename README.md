@@ -207,4 +207,5 @@
 - [Less is More! 上交清源 && 里海 | 利用200条数据微调模型，怒超MiniGPT-4！](https://mp.weixin.qq.com/s/vbca2Y5LKqnOYnvEqqrgzQ)
 - [关于大模型驱动的AI智能体Agent的一些思考](https://mp.weixin.qq.com/s/3HXt1QFCyCwq_TNCl2UMEw)
 - [一文盘点「AI自主智能体」的构建、应用、评估](https://mp.weixin.qq.com/s/vPL3kvwCFFXOCnXfeRqfRA)
-- [Claude 2已被越狱？一文带你了解提示攻击！](https://mp.weixin.qq.com/s/p8l5hqLEATYEINe_7UIvWQ)
+- [Claude 2已被越狱？一文带你了解提示攻击！](https://mp.weixin.qq.com/s/p8l5hqLEATYEINe_7UIvWQ)、
+- HF中文博客：https://huggingface.co/blog/zh
