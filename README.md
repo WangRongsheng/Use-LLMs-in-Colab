@@ -181,6 +181,7 @@
 - https://github.com/onejune2018/Awesome-LLM-Eval
 - https://github.com/atfortes/LLM-Reasoning-Papers
 - https://github.com/opendilab/awesome-RLHF
+- https://github.com/corca-ai/awesome-llm-security
 
 # 🔗Deploy
 
