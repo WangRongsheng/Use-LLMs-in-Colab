@@ -180,6 +180,7 @@
 - https://github.com/onejune2018/Awesome-Medical-Healthcare-Dataset-For-LLM
 - https://github.com/onejune2018/Awesome-LLM-Eval
 - https://github.com/atfortes/LLM-Reasoning-Papers
+- https://github.com/opendilab/awesome-RLHF
 
 # 🔗Deploy
 
