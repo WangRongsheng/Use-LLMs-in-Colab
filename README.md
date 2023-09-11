@@ -213,3 +213,5 @@
 - [Claude 2已被越狱？一文带你了解提示攻击！](https://mp.weixin.qq.com/s/p8l5hqLEATYEINe_7UIvWQ)、
 - HF中文博客：https://huggingface.co/blog/zh
 - llama-2实现新闻分类：https://medium.com/@kshitiz.sahay26
+- [LangChain 中文文档](https://github.com/liteli1987gmail/python_langchain_cn)
+- [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
