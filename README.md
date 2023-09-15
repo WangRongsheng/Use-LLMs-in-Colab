@@ -182,6 +182,7 @@
 - https://github.com/atfortes/LLM-Reasoning-Papers
 - https://github.com/opendilab/awesome-RLHF
 - https://github.com/corca-ai/awesome-llm-security
+- https://github.com/DSXiangLi/DecryptPrompt
 
 # 🔗Deploy
 
