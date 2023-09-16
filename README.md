@@ -192,6 +192,7 @@
 - https://github.com/mlc-ai/mlc-llm
 - https://github.com/weaigc/bingo
 - https://github.com/eosphoros-ai/DB-GPT
+- https://github.com/snexus/llm-search
 
 # 📝Articles
 
