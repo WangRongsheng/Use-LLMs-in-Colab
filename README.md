@@ -193,6 +193,8 @@
 - https://github.com/weaigc/bingo
 - https://github.com/eosphoros-ai/DB-GPT
 - https://github.com/snexus/llm-search
+- https://sdk.vercel.ai/
+
 
 # 📝Articles
 
