@@ -25,6 +25,9 @@
 8. CPM-Bee
 - https://github.com/OpenBMB/CPM-Bee
 - https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/CPM-Bee
+9. QWen-VL
+- https://github.com/QwenLM/Qwen-VL
+- https://github.com/WangRongsheng/Use-LLMs-in-Colab/tree/main/Qwen-VL-Chat
 
 # ❌Multimodel
 - https://github.com/cambridgeltl/visual-med-alpaca
