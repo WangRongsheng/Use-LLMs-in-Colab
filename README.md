@@ -198,6 +198,9 @@
 - https://github.com/snexus/llm-search
 - https://sdk.vercel.ai/
 
+# 🦾Search
+
+- https://github.com/weaviate/Verba
 
 # 📝Articles
 
