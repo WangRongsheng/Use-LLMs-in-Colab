@@ -186,6 +186,7 @@
 - https://github.com/opendilab/awesome-RLHF
 - https://github.com/corca-ai/awesome-llm-security
 - https://github.com/DSXiangLi/DecryptPrompt
+- https://github.com/THU-KEG/EvaluationPapers4ChatGPT
 
 # 🔗Deploy
 
