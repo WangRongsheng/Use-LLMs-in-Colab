@@ -226,3 +226,4 @@
 - llama-2实现新闻分类：https://medium.com/@kshitiz.sahay26
 - [LangChain 中文文档](https://github.com/liteli1987gmail/python_langchain_cn)
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
+- [斯坦福《大语言模型与应用》](https://web.stanford.edu/class/cs329t/index.html)
