@@ -228,3 +228,4 @@
 - [LangChain 中文文档](https://github.com/liteli1987gmail/python_langchain_cn)
 - [大规模语言模型：从理论到实践](https://intro-llm.github.io/)
 - [斯坦福《大语言模型与应用》](https://web.stanford.edu/class/cs329t/index.html)
+- [普林斯顿COS509G《Understanding Large Language Models》](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
