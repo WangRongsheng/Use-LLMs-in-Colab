@@ -154,6 +154,7 @@
 - https://github.com/chroma-core/chroma
 - https://github.com/mshumer/gpt-author
 - https://github.com/SerCeMan/fontogen
+- https://github.com/RedisVentures/ArXivChatGuru
 
 # 🧴Agent
 
