@@ -155,6 +155,7 @@
 - https://github.com/mshumer/gpt-author
 - https://github.com/SerCeMan/fontogen
 - https://github.com/RedisVentures/ArXivChatGuru
+- https://github.com/RUC-GSAI/YuLan-IR/tree/main/RETA-LLM
 
 # 🧴Agent
 
