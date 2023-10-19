@@ -206,6 +206,11 @@
 
 - https://github.com/weaviate/Verba
 
+# 🧊Label-img
+
+- https://github.com/yatengLG/ISAT_with_segment_anything
+- https://github.com/CVHub520/X-AnyLabeling
+
 # 📝Articles
 
 - [LLMs 大语言模型如何在NLP基础任务的落地？也许你应该看看这个](https://mp.weixin.qq.com/s/r3x-2VwOyxYLNm2E-4ZCHw)
