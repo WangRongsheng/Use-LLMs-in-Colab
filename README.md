@@ -238,3 +238,4 @@
 - [普林斯顿COS509G《Understanding Large Language Models》](https://www.cs.princeton.edu/courses/archive/fall22/cos597G/)
 - [使用这个工具后，我将 RAG 的准确性和召回率都提高了两倍！](https://mp.weixin.qq.com/s/Csiy60K4s6cRubxRK3A3Dw)
 - [利用LLM构建应用实践笔记](https://github.com/morsoli/llm-books)
+- [State of AI Report 2023](https://www.stateof.ai/)
